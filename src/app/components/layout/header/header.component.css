@@ -1,11 +1,4 @@
 /*Sacar*/
-body {
-    padding-top: 5.5rem;
-    background: linear-gradient(to top, #10002b ,#3c096c, #7b2cbf);
-
-}
-
-/*Sacar*/
 .contenedor-oscuro {
     background-color: rgba(0, 0, 0, .4);
 }
