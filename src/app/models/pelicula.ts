@@ -4,4 +4,8 @@ export class Pelicula {
     descripcion!: string;
     anio!: number;
     imagen!: string;
+    
+    constructor(){
+        
+    }
 }
